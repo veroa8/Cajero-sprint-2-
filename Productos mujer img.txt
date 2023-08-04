@@ -1,0 +1,86 @@
+Colección mujer:
+
+-PRODUCTO 2
+
+IMG GRANDES:
+
+Principal: 
+
+https://res.cloudinary.com/dxtmaq6st/image/upload/v1689315719/1_chisnv.jpg
+
+Las otras tres: 
+https://res.cloudinary.com/dxtmaq6st/image/upload/v1689315846/2c_uebqea.jpg
+https://res.cloudinary.com/dxtmaq6st/image/upload/v1689315719/3_wvimpc.jpg
+https://res.cloudinary.com/dxtmaq6st/image/upload/v1689315719/4_x5v8b6.jpg
+
+IMG PEQUEÑAS:
+
+Principal: https://res.cloudinary.com/dxtmaq6st/image/upload/v1689316099/1_guzaki.jpg
+
+Las otras tres: 
+https://res.cloudinary.com/dxtmaq6st/image/upload/v1689316100/2_yzcd9v.jpg
+https://res.cloudinary.com/dxtmaq6st/image/upload/v1689316100/3_ufgjoo.jpg
+https://res.cloudinary.com/dxtmaq6st/image/upload/v1689316100/4_p3ozyv.jpg
+
+
+-PRODUCTO 3:
+
+IMG GRANDES
+
+Principal: https://res.cloudinary.com/dxtmaq6st/image/upload/v1689318323/1_ormmyq.jpg
+
+Las otras tres: 
+https://res.cloudinary.com/dxtmaq6st/image/upload/v1689318323/2_roecqj.jpg
+https://res.cloudinary.com/dxtmaq6st/image/upload/v1689318323/3_r7btn9.jpg
+https://res.cloudinary.com/dxtmaq6st/image/upload/v1689318323/4_ofa7ge.jpg
+
+IMG PEQUEÑAS
+
+Principal: https://res.cloudinary.com/dxtmaq6st/image/upload/v1689318342/1_byhnvd.jpg
+
+Las otras tres: 
+https://res.cloudinary.com/dxtmaq6st/image/upload/v1689318342/2_qpyps5.jpg
+https://res.cloudinary.com/dxtmaq6st/image/upload/v1689318342/3_kprfsm.jpg
+https://res.cloudinary.com/dxtmaq6st/image/upload/v1689318342/4_xajbfs.jpg
+
+
+-PRODUCTO 4:
+
+IMG GRANDES
+
+Principal: https://res.cloudinary.com/dxtmaq6st/image/upload/v1689320192/1_yiilds.jpg
+
+Las otras tres:
+https://res.cloudinary.com/dxtmaq6st/image/upload/v1689320192/2_p8dj6s.jpg
+https://res.cloudinary.com/dxtmaq6st/image/upload/v1689320192/3_ddlrtr.jpg
+https://res.cloudinary.com/dxtmaq6st/image/upload/v1689320192/4_yw7ge8.jpg
+
+IMG PEQUEÑAS
+
+Principal: https://res.cloudinary.com/dxtmaq6st/image/upload/v1689320205/1_werups.jpg
+
+Las otras tres: 
+https://res.cloudinary.com/dxtmaq6st/image/upload/v1689320205/2_aslj83.jpg
+https://res.cloudinary.com/dxtmaq6st/image/upload/v1689320205/3_ejdsce.jpg
+https://res.cloudinary.com/dxtmaq6st/image/upload/v1689320205/4_xld2v8.jpg
+
+
+PRODUCTO 5:
+
+IMG GRANDES
+
+Principal: https://res.cloudinary.com/dxtmaq6st/image/upload/v1689384940/1_inafqo.jpg
+
+Las otras tres: 
+https://res.cloudinary.com/dxtmaq6st/image/upload/v1689384940/2_xxtcwd.jpg
+https://res.cloudinary.com/dxtmaq6st/image/upload/v1689384940/3_yon7a3.jpg
+https://res.cloudinary.com/dxtmaq6st/image/upload/v1689384940/4_skc12b.jpg
+
+IMG PEQUEÑAS
+
+Principal: https://res.cloudinary.com/dxtmaq6st/image/upload/v1689385018/1_bshawy.jpg
+
+Las otras tres:
+https://res.cloudinary.com/dxtmaq6st/image/upload/v1689385018/2_y7xxbp.jpg
+https://res.cloudinary.com/dxtmaq6st/image/upload/v1689385018/3_xkmjha.jpg
+https://res.cloudinary.com/dxtmaq6st/image/upload/v1689385018/4_fxxxyy.jpg

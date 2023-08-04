@@ -1,0 +1,264 @@
+{
+  "productos": [
+    {
+      "nombre": "Fall Limited Edition Sneakers",
+      "categoria": "mujer",
+      "precio": 125,
+      "descripcion": "These low-profile sneakers are you perfect profile wear companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer.",
+      "descuento": 15,
+      "contador": 1,
+      "unidades": 0,
+      "ID": 1,
+      "imagenPrincipal": [
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689308524/image-product-3_cndtk9.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689308282/image-product-3-thumbnail_gqmiv5.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689308343/image-product-2_dukyvd.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689308524/image-product-2-thumbnail_c0k2ff.jpg"
+      ],
+      "Thumbnails": [
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689308342/image-product-1_pkrnjr.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689308342/image-product-1-thumbnail_lgjcrx.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689308282/image-product-4_y4l0gp.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689308282/image-product-3-thumbnail_gqmiv5.jpg"
+      ]
+    },
+    {
+      "nombre": "Tenis Grand Court Base",
+      "categoria": "mujer",
+      "precio": 210,
+      "descripcion": "Have you ever walked on Air? Step into this shoe to truly see how it's done. Look through or remove the perforated insole to see the transparent Nike Air unit. Made with at least 20% recycled content by weight, the stretchy upper keeps it light and cool for warmer weather.",
+      "descuento": 10,
+      "contador": 1,
+      "unidades": 0,
+      "ID": 2,
+      "imagenPrincipal": [
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689315719/1_chisnv.jpg",
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689315846/2c_uebqea.jpg",
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689315719/3_wvimpc.jpg",
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689315719/4_x5v8b6.jpg"
+      ],
+      "Thumbnails": [
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689316099/1_guzaki.jpg",
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689316100/2_yzcd9v.jpg",
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689316100/3_ufgjoo.jpg",
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689316100/4_p3ozyv.jpg",
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689318323/1_ormmyq.jpg"
+      ]
+    },
+    {
+      "nombre": "Grand Edition Sneakers",
+      "categoria": "mujer",
+      "precio": 85,
+      "descripcion": "Street fashion meets b-ball authenticity in the distinctly modern and 100% feminine Nike Court Vision Alta. The detailed upper features a collapsable heel for style versatility, chic synthetic leather with tumbled texture and transparent mesh for an airy aesthetic. Its lifted foam midsole feels incredible while keeping the heritage b-ball look.",
+      "descuento": 50,
+      "contador": 1,
+      "unidades": 0,
+      "ID": 3,
+      "imagenPrincipal": [
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689318323/1_ormmyq.jpg",
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689318323/2_roecqj.jpg",
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689318323/3_r7btn9.jpg",
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689318323/4_ofa7ge.jpg"
+      ],
+      "Thumbnails": [
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689318342/1_byhnvd.jpg",
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689318342/2_qpyps5.jpg",
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689318342/3_kprfsm.jpg",
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689318342/4_xajbfs.jpg"
+      ]
+    },
+    {
+      "nombre": "Tenis Lite Racer CLN",
+      "categoria": "mujer",
+      "precio": 91.97,
+      "descripcion": "Surround yourself with warmth and comfort in kicks that put a cozy twist on a hoops icon. Soft suede pairs with smooth leather and fuzzy faux fur to add a comforting touch to these blushing kicks. Using a layered approach, double the branding and an exaggerated midsole highlight AF1 DNA with a bold new look.",
+      "descuento": 20,
+      "contador": 1,
+      "unidades": 0,
+      "ID": 4,
+      "imagenPrincipal": [
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689320192/1_yiilds.jpg",
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689320192/2_p8dj6s.jpg",
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689320192/3_ddlrtr.jpg",
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689320192/4_yw7ge8.jpg"
+      ],
+      "Thumbnails": [
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689320205/1_werups.jpg",
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689320205/2_aslj83.jpg",
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689320205/3_ejdsce.jpg",
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689320205/4_xld2v8.jpg"
+      ]
+    },
+    {
+      "nombre": "Tenis Lite Racer CLN",
+      "categoria": "mujer",
+      "precio": 90,
+      "descripcion": "Layers upon layers of dimensional style—that's a force to be reckoned with. Offering both comfort and versatility, these kicks are rooted in heritage basketball culture. Collar materials pay homage to vintage sport while the subtle platform elevates your look, literally. The Gamma Force is forging its own legacy: court style that can be worn all day, wherever you go.",
+      "descuento": 10,
+      "contador": 1,
+      "unidades": 0,
+      "ID": 5,
+      "imagenPrincipal": [
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689384940/1_inafqo.jpg",
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689384940/2_xxtcwd.jpg",
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689384940/3_yon7a3.jpg",
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689384940/4_skc12b.jpg"
+      ],
+      "Thumbnails": [
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689385018/1_bshawy.jpg",
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689385018/2_y7xxbp.jpg",
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689385018/3_xkmjha.jpg",
+        "https://res.cloudinary.com/dxtmaq6st/image/upload/v1689385018/4_fxxxyy.jpg"
+      ]
+    },
+    {
+      "nombre": "Tenis Ultrabounce",
+      "categoria": "hombre",
+      "precio": 100,
+      "descripcion": "The Nike Air Max Correlate sets you up in throwback style with a multi-textured upper and Max Air unit. Its soft foam midsole and breathable upper offer all-day comfort wherever your day takes you.",
+      "descuento": 18,
+      "contador": 1,
+      "unidades": 0,
+      "ID": 6,
+      "imagenPrincipal": [
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689806293/1.png_l1bm2j.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689806292/2_j8doxp.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689806292/4_v1hafx.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689806292/3_hpnfyi.jpg"
+      ],
+      "Thumbnails": [
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689383373/men2_small_cpwobn.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689383372/men3_small_bryvoq.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689383372/men4_small_hnfk5j.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689383372/men1_small_kyb66o.jpg"
+      ]
+    },
+    {
+      "nombre": "Tenis Grand Court Base",
+      "categoria": "hombre",
+      "precio": 115,
+      "descripcion": "Praised by many for its enduring look and feel, the wardrobe staple hits refresh with the Nike Blazer Mid '77 Jumbo. Harnessing the old-school look you love, it now has an elastic heel with corduroy-like texture and large pull tabs for easy on and off. The oversized Swoosh design and jumbo laces add a fun twist.",
+      "descuento": 10,
+      "contador": 1,
+      "unidades": 0,
+      "ID": 7,
+      "imagenPrincipal": [
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689806472/2_ktphkm.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689806472/1_ngqnpd.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689806472/4_hlrwwb.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689806472/3_srnq3o.jpg"
+      ],
+      "Thumbnails": [
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689383434/men6_small_a2a2w2.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689383433/men8_small_vm54cf.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689383433/men7_small_cws0fx.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689383433/men5_small_isdpex.jpg"
+      ]
+    },
+    {
+      "nombre": "Grand Edition Sneakers",
+      "categoria": "hombre",
+      "precio": 261,
+      "descripcion": "Inspired by the original low-profile tennis shoe, the Nike Killshot 2 updates the upper with a variety of textured leathers to create a fresh look. From soft suedes to smooth leathers with the perfect sheen, it's court-side attitude with a modern touch. To prove you're on top, the rubber gum sole adds the cherry on bottom..",
+      "descuento": 50,
+      "contador": 1,
+      "unidades": 0,
+      "ID": 8,
+      "imagenPrincipal": [
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689806532/7_chmulb.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689806532/6_yizuog.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689806532/5_plhix7.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689806532/8_grhtf6.jpg"
+      ],
+
+      "Thumbnails": [
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689383474/men12_small_bnfony.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689383474/men11_small_kt1evj.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689383474/men9_small_pczjhs.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689383474/men10_small_ppjs9y.jpg"
+      ]
+    },
+    {
+      "nombre": "Tenis Lite Racer CLN",
+      "categoria": "hombre",
+      "precio": 226,
+      "descripcion": "Being rooted doesn't mean you can't step forward. Keeping the classic simplicity and comfort you love, your favorite wardrobe staple gets remastered for the modern era. Extra rubber extends from the midsole to the Swoosh for a bold twist (and a little nod to Nike innovation from the '70s). The patchwork upper adds the perfect amount of retro attitude.",
+      "descuento": 60,
+      "contador": 1,
+      "unidades": 0,
+      "ID": 9,
+      "imagenPrincipal": [
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689806590/1_rdmpxq.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689806590/2_h2aozv.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689806590/3_ttqgcl.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689806590/4_pplo43.jpg"
+      ],
+      "Thumbnails": [
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689383565/men17_small_kozjfy.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689383565/men20_small_wr9r9n.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689383760/men18_small_tpkmv0.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689383565/men17_small_kozjfy.jpg"
+      ]
+    },
+    {
+      "nombre": "Tenis Lite Racer CLN",
+      "categoria": "hombre",
+      "precio": 92,
+      "descripcion": "Being rooted doesn't mean you can't step forward. Keeping the classic simplicity and comfort you love, your favorite wardrobe staple gets remastered for the modern era. Extra rubber extends from the midsole to the Swoosh for a bold twist (and a little nod to Nike innovation from the '70s). The patchwork upper adds the perfect amount of retro attitude.",
+      "descuento": 25,
+      "contador": 1,
+      "unidades": 0,
+      "ID": 10,
+      "imagenPrincipal": [
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689806930/1_bpnget.jpg",
+         "https://res.cloudinary.com/db4z2keyg/image/upload/v1689806930/3_dcnhyo.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689806930/2_oyxnik.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689806930/4_nuzk3q.jpg"
+      ],
+      "Thumbnails": [
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689384270/men15_small_g2khur.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689384270/men13_small_dbwjpk.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689384270/men169_small_akfxby.jpg",
+        "https://res.cloudinary.com/db4z2keyg/image/upload/v1689384270/men14_small_pomwyo.jpg"
+      ]
+    }
+  ],
+  "compradores": [
+    {
+      "nombre": "Juan",
+      "cedula": "123",
+      "celular": "76878",
+      "correo": "Juan@gmail.com",
+      "tarjeta": "17263810123",
+      "MM": "06",
+      "YY": "25",
+      "digitos": "266",
+      "propietario": "Juan",
+      "id": 1
+    },
+    {
+      "nombre": "Juan Camilo",
+      "ID": "1234",
+      "celular": "89776",
+      "correo": "juan.sanchez53@udea.edu.co",
+      "card-number": "32131312331",
+      "MM": "06",
+      "YY": "21",
+      "000": "266",
+      "Cardholder": "Juan Camilo",
+      "id": 2
+    },
+    {
+      "nombre": "Nathalia",
+      "ID": "1234",
+      "celular": "567890",
+      "correo": "nathalia@gmail.com",
+      "card-number": "1234567890'",
+      "MM": "06",
+      "YY": "25",
+      "000": "123",
+      "Cardholder": "Nathalia Acosta",
+      "id": 3
+    }
+  ]
+}

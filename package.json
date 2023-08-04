@@ -1,0 +1,17 @@
+{
+  "name": "sprint-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3",
+    "sweetalert": "^2.1.2",
+    "sweetalert2": "^11.7.18"
+  },
+  "type": "module"
+}
